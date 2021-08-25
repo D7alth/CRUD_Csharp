@@ -12,7 +12,7 @@ namespace RegisteModule.dataBases
         SqlConnection con = new SqlConnection(); 
         public Conection()
         {
-            con.ConnectionString = "Data Source=DESKTOP-2LP5M1V;Initial Catalog=FinalProjectDB;Integrated Security=True";
+            con.ConnectionString = "************";
         }
         public SqlConnection connection()
         {
